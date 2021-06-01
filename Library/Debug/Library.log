@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\fachi\source\repos\library\library\store.h(35): error C3867: 'Book::getBookTitle': non-standard syntax; use '&' to create a pointer to member
+  Store.cpp
+c:\users\fachi\source\repos\library\library\store.h(35): error C3867: 'Book::getBookTitle': non-standard syntax; use '&' to create a pointer to member
+  User.cpp
+c:\users\fachi\source\repos\library\library\store.h(35): error C3867: 'Book::getBookTitle': non-standard syntax; use '&' to create a pointer to member
+  Generating Code...
